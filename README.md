@@ -16,6 +16,10 @@ We used morpholigical closing to remove the sketches from tiles :
 
 ![closing](https://github.com/parsaeisa/computer_vision_project/blob/master/pictures/closing.png)
 
+Now we can find the vertices very easily . after finding vertices we apply a transform to crop the image . 
+
+![cropped image](https://github.com/parsaeisa/computer_vision_project/blob/master/pictures/cropped.png)
+
 
 ## Networks
 ### Siamese
