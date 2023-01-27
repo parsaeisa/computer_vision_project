@@ -35,3 +35,11 @@ And the label is a window in the binary mask image f the crack ( still with same
 ![Data](https://github.com/parsaeisa/computer_vision_project/blob/master/pictures/pair.png)
 
 ### U-Net
+
+In U-Net the size of the input image is bigger , hence we don't need window sliding and we don't have the challenge of managing large number of files . 
+
+In U-Net subtracting the pattern from image becames so much more critical . We pass the subtracted picture as input and the binary masks as labels . 
+
+In this problem we only have two classes : 
+* Crack
+* Background 
