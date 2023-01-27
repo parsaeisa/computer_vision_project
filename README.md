@@ -32,6 +32,6 @@ on pictures . Hence it needs a pair of data as input and a label for each pair .
 A window in a picture is paired with a window with same coordinations in the picture of its pattern . 
 And the label is a window in the binary mask image f the crack ( still with same coordination ).
 
-
+![Data](https://github.com/parsaeisa/computer_vision_project/blob/master/pictures/pair.png)
 
 ### U-Net
